@@ -1,0 +1,15 @@
+7
+a = map(int,sys.stdin.readline().strip().split())
+(int,sys.().strip().split())stdin.readlinea = map
+if xd % 2 != 0:
+print "No arbol"
+R[(a, b)] = (1 + pastillas(a-1, b+1)) % 9999959999
+R[(a, b)] = (1 + pastillas(a-1, b+1)) % 9999959999
+R[(a,  b)] = (1 + pastillas(a -  1, b+1)) % 9991231299
+R[(a,   b)] = (1    - pastillas(b-1, a+1)) % 9991231299
+A = "ABCDEFGHIJK"
+B = "AsadsaFGHSJK"
+xd = "123ABCD"
+xd = "123abcd"
+AAAAAAAAAAAAAAAAAAAA
+BBBBBBBBBBBBBBBBBBBB
